@@ -1,0 +1,1 @@
+Ce github ne contient le fichier de code que pour la séance 2 car je n'ai pas pu avancer les autres séances (3-6) du parcours débutant. Néanmoins, le rapport d'activité contient les réponses à toutes les questions de cours.
